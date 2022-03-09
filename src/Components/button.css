@@ -1,0 +1,11 @@
+.blogname{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: rgba(223, 157, 16, 0.699);
+    border: none;
+    font-size: 20px;
+    box-shadow: 15px 1.5px 10px 5px rgba(0, 0, 0, 0.377);
+}

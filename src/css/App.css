@@ -1,0 +1,30 @@
+/* standard setting of the css page */
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+  background-color: rgba(255, 221, 27, 0.733);
+}
+
+.App {
+  text-align: center;
+}
+
+.blog{
+  padding: 20px;
+}
+
+footer{
+  background-color: rgba(255, 244, 149, 0.486);
+  padding: 10px;
+  font-size: 20px;
+}
+
+
+
+
+
