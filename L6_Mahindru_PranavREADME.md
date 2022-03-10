@@ -30,6 +30,8 @@ If in completing your lab / assignment / project you used any interpretation of 
 File Name (All FILES)
 All code is written by me. Nothing is taken from the outside and I also didn't take any reference/code anything from outside other than i just saw the lab 6 document and recording to understand more. Also lab 7 recording to understand more.
 
+from the lab 7 i took the how to make json file and use in the App.js also i learn more about the useState that i used from the lab 7.
+
 ### There are 2 thing i took from the outside which i mention below 
 
 1. <!-- i used the dummy text from  --> I used the dummy text in the jsonDataBlog.js in the Description

@@ -12,7 +12,7 @@ import Description from './Components/description';
 import {data} from './Components/jsonDataBlog';
 
 function App() {
-  // to show the data from the jsonDataBlog
+  // to show the data from the jsonDataBlog this is from the lab 7
   const [record, setRecord] = useState(data);
   return (
     <>
