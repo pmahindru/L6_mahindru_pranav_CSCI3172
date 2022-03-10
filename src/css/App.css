@@ -22,25 +22,3 @@ footer{
   padding: 10px;
   font-size: 22px;
 }
-
-/* form and add button  */
-.AddButton{
-  align-items: center;
-  text-align: center;
-  padding: 10px;
-  margin: 10px;
-  background-color: rgba(223, 157, 16, 0.699);
-  font-size: 20px;
-}
-
-input,textarea{
-  align-items: center;
-  text-align: center;
-  padding: 15px;
-  margin: 10px;
-  font-size: 20px;
-}
-
-#showHide{
-  display: none;
-}
