@@ -47,12 +47,3 @@ Available: https://www.w3schools.com/react/showreact.asp?filename=demo2_react_ev
 Accessed: 08-Mar-2022]. 
 
 Repeat as needed
-
-<!-- citations  -->
-
-
-
-
-
-
-
