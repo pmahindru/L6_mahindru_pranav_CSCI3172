@@ -2,9 +2,7 @@ import './button.css'
 import React from 'react';
 
 function Button(props){
-    // assign the function to variable and call in the onclick in button
-    // more understand for function from the give link but i didn't copy and paste.
-    // other than i did myself (Also reference from the lab)
+    // i learn from the lab 7 recording as well as i also took reference for the function from the given link and implement it 
     // Tryit editor v3.6 - show react. [Online]. 
     // Available: https://www.w3schools.com/react/showreact.asp?filename=demo2_react_events_argument. [
     // Accessed: 08-Mar-2022]. 

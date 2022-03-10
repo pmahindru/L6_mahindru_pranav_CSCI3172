@@ -1,11 +1,11 @@
+/* this is my own css */
 .blogname{
-    align-items: center;
     text-align: center;
     padding: 10px;
     margin: 10px;
+    background-color: rgba(16, 106, 223, 0.699);
     text-decoration: none;
-    background-color: rgba(223, 157, 16, 0.699);
     border: none;
     font-size: 20px;
-    box-shadow: 15px 1.5px 10px 5px rgba(0, 0, 0, 0.377);
+    box-shadow: 5px 5px rgb(0, 52, 121), 10px 10px rgb(3, 112, 255), 15px 15px rgb(0, 0, 0);
 }
